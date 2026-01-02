@@ -8,7 +8,39 @@ In the roots of Yggdrasil, the gods breathed life into a humble tree, naming it 
 Your ask-cmp app revives Ask's saga: Set goals from daily quests to decade epics or custom milestones, with daily updates fueling your inner fire. Opt to share in the community feed, where fellow "Asks" rally like gods' blessings, forging collective triumphs from personal vows.
 ​
 
-### Motivation Arc
-- Creation Spark: Goal-setting mirrors gods igniting Ask's soul.
-- Daily Renewal: Check-ins sustain immortality against entropy.
-- Shared Glory: Public posts build a Yggdrasil of mutual inspiration.
+### 🔥 Motivation Arc
+| Stage | Norse Inspiration | App Feature |
+|-------|-------------------|-------------|
+| **Creation Spark** | Gods igniting Ask's soul | Goal-setting awakens potential |
+| **Daily Renewal** | Sustaining immortality | Check-ins vs. entropy |
+| **Shared Glory** | Yggdrasil of gods | Public posts & community rally |
+
+# Construction
+### 🤖 AI Tools
+- 🔥 [firebender](https://firebender.ai)
+- 🔍 [perplexity](https://perplexity.ai)
+- 🪡 [stitch](https://stitch.ai)
+- ✨ [genspark](https://genspark.ai)
+
+### 📱 Client (Kotlin Multiplatform)
+| Library | Purpose |
+|---------|---------|
+| [Compose Multiplatform](https://compose-multiplatform.jetbrains.com) | UI Framework |
+| [Compose Multiplatform](https://compose-multiplatform.jetbrains.com) | UI Components |
+| [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) | Async Flow |
+| [Kotlin](https://kotlinlang.org) | Core Language |
+| [Koin](https://insert-koin.io) | DI |
+| [KSP](https://kotlinlang.org/docs/ksp-overview.html) | Processor |
+| [Ktorfit](https://ktorfit.io) | HTTP Client |
+| [Kotlinx Datetime](https://github.com/Kotlin/kotlinx-datetime) | Date Handling |
+| [Kotlinx Serialization](https://github.com/Kotlin/kotlinx.serialization) | JSON |
+| [Kermit](https://github.com/touchlab/Kermit) | Logging |
+
+### 🖥️ Backend
+[![Supabase](https://img.shields.io/badge/Supabase-FDB019?logo=supabase&logoColor=white)](https://supabase.com)
+
+### 💻 IDEs
+- [Android Studio](https://developer.android.com/studio) 🐘
+- [Xcode](https://developer.apple.com/xcode/) 🍎
+
+---
