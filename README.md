@@ -17,10 +17,11 @@ Your ask-cmp app revives Ask's saga: Set goals from daily quests to decade epics
 
 # Construction
 ### 🤖 AI Tools
-- 🔥 [firebender](https://firebender.ai)
-- 🔍 [perplexity](https://perplexity.ai)
-- 🪡 [stitch](https://stitch.ai)
-- ✨ [genspark](https://genspark.ai)
+- 🔥 [Firebender](https://firebender.ai)
+- 🔍 [Perplexity](https://perplexity.ai)
+- 🪡 [Stitch](https://stitch.ai)
+- ✨ [Genspark](https://genspark.ai)
+- 🧠 [GitHub Copilot](https://github.com/features/copilot)
 
 ### 📱 Client (Kotlin Multiplatform)
 | Library | Purpose |
