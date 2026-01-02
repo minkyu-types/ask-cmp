@@ -26,7 +26,7 @@ Your ask-cmp app revives Ask's saga: Set goals from daily quests to decade epics
 | Library | Purpose |
 |---------|---------|
 | [Compose Multiplatform](https://compose-multiplatform.jetbrains.com) | UI Framework |
-| [Compose Multiplatform](https://compose-multiplatform.jetbrains.com) | UI Components |
+| [Compottie](https://github.com/alexzhirkevich/compottie) | Lottie animations for Compose Multiplatform |
 | [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) | Async Flow |
 | [Kotlin](https://kotlinlang.org) | Core Language |
 | [Koin](https://insert-koin.io) | DI |
