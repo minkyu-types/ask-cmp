@@ -33,7 +33,7 @@ fun RootScreen(
             entryProvider = entryProvider {
                 entry<HomeRoute> {
                     HomeScreen(
-                        onNavigate = {
+                        navigateTo = {
                             // TODO: 다른 화면으로 네비게이션
                         }
                     )
